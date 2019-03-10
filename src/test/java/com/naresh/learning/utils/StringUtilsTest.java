@@ -1,4 +1,4 @@
-package com.naresh.sonatype.utils;
+package com.naresh.learning.utils;
 
 import org.junit.Test;
 

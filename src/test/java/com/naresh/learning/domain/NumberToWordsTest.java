@@ -1,4 +1,4 @@
-package com.naresh.sonatype;
+package com.naresh.learning.domain;
 
 import org.junit.Test;
 

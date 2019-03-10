@@ -1,4 +1,4 @@
-package com.naresh.sonatype.utils;
+package com.naresh.learning.utils;
 
 public class StringUtils {
     private static final String EMPTY_STRING = "";
