@@ -6,4 +6,8 @@ public class ConversionRequest {
     public Long getInputNumber() {
         return inputNumber;
     }
+
+    public void setInputNumber(Long inputNumber) {
+        this.inputNumber = inputNumber;
+    }
 }

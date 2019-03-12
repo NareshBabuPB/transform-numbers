@@ -6,4 +6,16 @@ public class ConversionResponse {
     public ConversionResponse(String numberInWords) {
         this.numberInWords = numberInWords;
     }
+
+    public ConversionResponse() {
+
+    }
+
+    public String getNumberInWords() {
+        return this.numberInWords;
+    }
+
+    public void setNumberInWords(String numberInWords) {
+        this.numberInWords = numberInWords;
+    }
 }
