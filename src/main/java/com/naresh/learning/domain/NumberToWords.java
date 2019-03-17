@@ -1,13 +1,13 @@
-package com.naresh.sonatype;
+package com.naresh.learning.domain;
 
 import com.google.common.annotations.VisibleForTesting;
 import com.google.common.collect.ImmutableMap;
 
 import java.util.Map;
 
-import static com.naresh.sonatype.utils.StringUtils.appendWithSpace;
-import static com.naresh.sonatype.utils.StringUtils.titleCase;
-import static com.naresh.sonatype.utils.StringUtils.AND;
+import static com.naresh.learning.utils.StringUtils.appendWithSpace;
+import static com.naresh.learning.utils.StringUtils.titleCase;
+import static com.naresh.learning.utils.StringUtils.AND;
 
 public class NumberToWords {
 

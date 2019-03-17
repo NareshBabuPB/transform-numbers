@@ -1,4 +1,4 @@
-import com.naresh.sonatype.NumberToWords;
+import com.naresh.learning.domain.NumberToWords;
 
 import java.util.Scanner;
 
