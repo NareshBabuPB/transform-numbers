@@ -1,3 +1,6 @@
-# ignore intellij files
+# IntelliJ files
 /.idea
 *.iml
+
+# Log files
+*.log
